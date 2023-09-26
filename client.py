@@ -15,4 +15,4 @@ def get(host, port):
 
     s.close()
 
-get("loclhost", 8080)
+get("localhost", 8080) 
